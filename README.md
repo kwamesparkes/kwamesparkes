@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kwamesparkes
 - 👀 I’m interested in web development, machine learning and data science. In my personal life interested in sports (basketball, boxing, football) and music (especially music business).
 - 🌱 I’m currently learning HTML, CSS, and French. 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on some starter web development projects.
 - 📫 How to reach me ...
 
 <!---
